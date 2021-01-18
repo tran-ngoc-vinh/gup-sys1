@@ -228,16 +228,16 @@
 				</p>
 				<div class="swipzer-container">
 					<div class="swiper-wrapper">
-											<a class="swiper-slide" href="https://chrome.google.com/webstore/detail/slim-chatwork/hckmjlnhaeikfnmmfjniechjanhhfnjh" target="_blank" rel="noreferrer noopener">
-							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/00f5fa03525e91aa5b6257729d9695f6.jpg" alt="Slim Chatwork" class="lazyload">
+											<a class="swiper-slide" href="https://www.morien.com/" target="_blank" rel="noreferrer noopener">
+							<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/00f5fa03525e91aa5b6257729d9695f6.jpg" alt="Slim Chatwork" class="lazyload">
 							<span class="caption">Slim Chatwork</span>
 						</a>
-											<a class="swiper-slide" href="https://chrome.google.com/webstore/detail/%E8%A6%8B%E3%81%88%E3%80%9C%E3%82%8Balt/gkpbonkmpkgkjdaffjecchbephmjmekj" target="_blank" rel="noreferrer noopener">
-							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/a14fb31d8787472a2be90094f2942ba5.jpg" alt="見え〜るAlt" class="lazyload">
+											<a class="swiper-slide" href="https://paint-wall.com/" target="_blank" rel="noreferrer noopener">
+							<img src="./public/img/shop-mv.jpg" alt="見え〜るAlt" class="lazyload">
 							<span class="caption">見え〜るAlt</span>
 						</a>
 											<a class="swiper-slide" href="https://degitekunote.com" target="_blank" rel="noreferrer noopener">
-							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/4fe08994d511c63988d717ff1c1fb786.jpg" alt="degitekunote.com" class="lazyload">
+							<img src="./public/img/abc.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/4fe08994d511c63988d717ff1c1fb786.jpg" alt="degitekunote.com" class="lazyload">
 							<span class="caption">degitekunote.com</span>
 						</a>
 										</div>
@@ -1244,118 +1244,6 @@ FC2ブログの時代は複数あるテーマから選んだデザインを当�
 </div>
 					</div>
 											</section>
-
-			<!-- blog -->
-			<section class="common-wrap top__wrap-blog" id="blog">
-				<h2 class="common-wrap--tit">
-					<span class="common-wrap--tit__en">BLOG</span>
-					<span class="common-wrap--tit__ja">最新記事</span>
-				</h2>
-				<a class="top__wrap-blog__tit-link" href="https://cofus.work/blog/">全ての記事を見る</a>
-				<ul class="top__wrap-blog__area c-blog-list">
-					<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/browser-sync-port80/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/10/849d857d9605825d47038ce562e94346-724x500.png" alt="Browser Syncでポート番号なしで接続" title="Browser Syncでポート番号なしで接続">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-10-17">2019/10/17</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/web-develop/">Web制作</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/browser-sync/">Browser Sync</a>
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/gulp/">gulp</a>
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/port/">ポート番号</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/browser-sync-port80/">
-			<p class="c-blog-item__tit">Browser Syncでポート番号なしで接続</p>
-		</a>
-	</div>
-</li>
-<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/get-value-from-manifest-json-with-chrome-extension/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/07/92a30d0651d662c5c5a10247095878be-724x500.png" alt="Chrome拡張機能でmanifest.jsonから様々な値を取得する" title="Chrome拡張機能でmanifest.jsonから様々な値を取得する">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-10-16">2019/10/16</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/javascript-tech/">JavaScriptテック</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/chrome-extension/">chrome拡張機能</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/get-value-from-manifest-json-with-chrome-extension/">
-			<p class="c-blog-item__tit">Chrome拡張機能でmanifest.jsonから様々な値を取得する</p>
-		</a>
-	</div>
-</li>
-<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/change-email-notification-destination-each-item-in-powercms-x-form/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/09/097c69b5f45523622d5f5f5e07278371-724x480.png" alt="PowerCMS Xで標準フォームにてユーザーによる選択項目別に管理者へのメール通知先を変える" title="PowerCMS Xで標準フォームにてユーザーによる選択項目別に管理者へのメール通知先を変える">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-09-17">2019/09/17</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/web-develop/">Web制作</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/mt-tag/">MTタグ</a>
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/powercmsx/">PowerCMS X</a>
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/form/">フォーム</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/change-email-notification-destination-each-item-in-powercms-x-form/">
-			<p class="c-blog-item__tit">PowerCMS Xで標準フォームにてユーザーによる選択項目別に管理者へのメール通知先を変える</p>
-		</a>
-	</div>
-</li>
-<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/chrome-extension-ga-connect-csp-error/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/07/92a30d0651d662c5c5a10247095878be-724x500.png" alt="Chrome拡張機能でGA連携する時にCSPで怒られたらanalytics.js読み込み先をsslタイプにしてみると良い" title="Chrome拡張機能でGA連携する時にCSPで怒られたらanalytics.js読み込み先をsslタイプにしてみると良い">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-07-15">2019/07/15</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/javascript-tech/">JavaScriptテック</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/chrome-extension/">chrome拡張機能</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/chrome-extension-ga-connect-csp-error/">
-			<p class="c-blog-item__tit">Chrome拡張機能でGA連携する時にCSPで怒られたらanalytics.js読み込み先をsslタイプにしてみると良い</p>
-		</a>
-	</div>
-</li>
-<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/2019-best-head-elements/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/07/d17819ab1c22b822086ad0bcc276ba1e-724x500.png" alt="2019年、最も一般的に使える&lt;head&gt;内に必要な要素一覧" title="2019年、最も一般的に使える&lt;head&gt;内に必要な要素一覧">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-07-12">2019/07/12</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/web-develop/">Web制作</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/html5/">html5</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/2019-best-head-elements/">
-			<p class="c-blog-item__tit">2019年、最も一般的に使える&lt;head&gt;内に必要な要素一覧</p>
-		</a>
-	</div>
-</li>
-<li class="c-blog-item">
-	<a class="c-blog-item__image" href="https://cofus.work/blog/scss-associative-array/">
-		<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/07/8d80cd67a8c7bbd9128389ad76280560-724x500.png" alt="Scssで連想配列を扱う" title="Scssで連想配列を扱う">	</a>
-	<div class="c-blog-item__txtarea">
-		<time class="c-blog-item__date" datetime="2019-07-11">2019/07/11</time>
-		<div class="c-blog-item__meta">
-							<a class="category" href="https://cofus.work/blog/cate/css/">CSSテック</a>
-										<div class="keywords-list">
-											<a class="keywords-item" href="https://cofus.work/blog/keywords/associative-array/">連想配列</a>
-									</div>
-					</div>
-		<a href="https://cofus.work/blog/scss-associative-array/">
-			<p class="c-blog-item__tit">Scssで連想配列を扱う</p>
-		</a>
-	</div>
-</li>
-				</ul>
-				<a class="top__wrap-blog__btn c-btn normal" href="https://cofus.work/blog/">BLOG一覧ページへ</a>
-			</section>
 
 			<!-- contact -->
 			<section class="common-wrap top__wrap-contact" id="contact" data-nonce="dfb19d84d5">

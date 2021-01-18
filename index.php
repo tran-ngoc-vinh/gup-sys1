@@ -180,12 +180,12 @@
 							<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/00f5fa03525e91aa5b6257729d9695f6.jpg" alt="Slim Chatwork" class="lazyload">
 							<span class="caption">Slim Chatwork</span>
 						</a>
-											<a class="swiper-slide" href="https://chrome.google.com/webstore/detail/%E8%A6%8B%E3%81%88%E3%80%9C%E3%82%8Balt/gkpbonkmpkgkjdaffjecchbephmjmekj" target="_blank" rel="noreferrer noopener">
+											<a class="swiper-slide" href="https://paint-wall.com/" target="_blank" rel="noreferrer noopener">
 							<img src="./public/img/shop-mv.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/a14fb31d8787472a2be90094f2942ba5.jpg" alt="見え〜るAlt" class="lazyload">
 							<span class="caption">見え〜るAlt</span>
 						</a>
 											<a class="swiper-slide" href="https://degitekunote.com" target="_blank" rel="noreferrer noopener">
-							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/4fe08994d511c63988d717ff1c1fb786.jpg" alt="degitekunote.com" class="lazyload">
+							<img src="./public/img/abc.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/4fe08994d511c63988d717ff1c1fb786.jpg" alt="degitekunote.com" class="lazyload">
 							<span class="caption">degitekunote.com</span>
 						</a>
 										</div>
