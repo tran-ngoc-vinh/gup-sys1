@@ -17,9 +17,9 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26184749-15"></script>
     <link href="./public/css/style.css" rel="stylesheet">
     <script src="./public/js/home.js"></script>
+	<link rel="stylesheet" type="text/css" href="./public/bootstrap/css/bootstrap.min.css">
     <script src="./public/js/bootstrapjs/jquery.min.js"></script>
-    <script src="./public/js/bootstrapjs/bootstrap.min.js"></script>
-    
+    <script src="jquery-3.3.1.min.js"></script>
     <link href="./public/css/bootstrapcss/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -168,33 +168,47 @@
 		</div>
     </div>
     	<!-- new release -->
-			<div class="l-container full">
-			<div class="top__future-slide">
-				<p class="tit">
-					<span class="en">NEW RELEASE</span>
-					<span class="ja">最近のものづくり</span>
-				</p>
-				<div class="swipzer-container">
-					<div class="swiper-wrapper">
-											<a class="swiper-slide" href="https://www.morien.com/" target="_blank" rel="noreferrer noopener">
-							<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/00f5fa03525e91aa5b6257729d9695f6.jpg" alt="Slim Chatwork" class="lazyload">
-							<span class="caption">Slim Chatwork</span>
-						</a>
-											<a class="swiper-slide" href="https://paint-wall.com/" target="_blank" rel="noreferrer noopener">
-							<img src="./public/img/shop-mv.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/a14fb31d8787472a2be90094f2942ba5.jpg" alt="見え〜るAlt" class="lazyload">
-							<span class="caption">見え〜るAlt</span>
-						</a>
-											<a class="swiper-slide" href="https://degitekunote.com" target="_blank" rel="noreferrer noopener">
-							<img src="./public/img/abc.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/4fe08994d511c63988d717ff1c1fb786.jpg" alt="degitekunote.com" class="lazyload">
-							<span class="caption">degitekunote.com</span>
-						</a>
-										</div>
-					<div class="swiper-button-prev"></div>
-					<div class="swiper-button-next"></div>
-				</div>
-				<div class="swiper-pagination"></div>
+    <div class="container">
+	    <div class="row">
+		<div class="col-md-4">
+			<div class="card">
+			  <img class="card-img-top img-thumbnail" src="./public/img/abc.jpg" alt="Card image cap">
 			</div>
 		</div>
+		<div class="col-md-4">
+			<div class="card">
+			  <img class="card-img-top img-thumbnail" src="./public/img/morien_ogp.jpg" alt="Card image cap">
+
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="card">
+			  <img class="card-img-top img-thumbnail" src="./public/img/shop-mv.jpg" alt="Card image cap">
+			</div>
+		</div>				
+    </div>
+  ------------------
+  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="./public/img/shop-mv.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./public/img/morien_ogp.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./public/img/abc.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>	
 </body>
 
 </html>
