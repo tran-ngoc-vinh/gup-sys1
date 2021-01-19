@@ -176,30 +176,87 @@
             </div>
         </div>
         <div class="container">
-	        <div class="row">
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="swiper-slide" href="https://www.morien.com/" target="_blank" rel="noreferrer noopener">
-                    <img class="card-img-top img-thumbnail" src="./public/img/abc.jpg" alt="Card image cap">
-                        </a>
-                </div>
-            </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="swiper-slide" href="https://paint-wall.com/" target="_blank" rel="noreferrer noopener">
-                        <img class="card-img-top img-thumbnail" src="./public/img/morien_ogp.jpg" alt="Card image cap">
-                        </a>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                </ol>  
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/shop-mv.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/abc.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One1</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/morien_ogp.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One2</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/abc.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One3</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/abc.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One4</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            <div class="col-md-4">
+                                                <div class="single-box">
+                                                    <div class="img-area"><img src="./public/img/morien_ogp.jpg" alt=""></div>
+                                                    <div class="img-text">
+                                                        <h2>Preson One5</h2>
+                                                        <p>fjsdhfklasd</p>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="card">
-                        <a class="swiper-slide" href="https://www.morien.com/" target="_blank" rel="noreferrer noopener">
-                        <img class="card-img-top img-thumbnail" src="./public/img/shop-mv.jpg" alt="Card image cap">
-                        </a>
-                    </div>
-                </div>				
-        </div>
-    </div>
     	<!-- news -->
     <section class="common-wrap" id="news">
         <div class="top__future-slide">
@@ -209,7 +266,6 @@
                 </p>
             </div>
 				<div class="top__wrap-news" >
-					<!-- <ul class="top__wrap-news--area c-news-list"> -->
 						<li class="c-news-item" style="list-style: none;">
                             <a class="c-news-item__inner" href="https://www.morien.com/" style="text-decoration: none;">
                                 <div class="c-news-item__meta">
@@ -240,7 +296,8 @@
 					</ul>
 					<a class="c-btn circle-more l-lg" id='news-toggle' data-scroll href="#news" aria-label="news detail toggle button"></a>
 					<a class="top__wrap-news--btn c-btn normal l-sm" href="">NEWS一覧ページへ</a>
-				</div>
+                </div>
+                
             </section>
             
     <!-- author -->
@@ -644,7 +701,7 @@
         </section>    
     
     <!-- contact -->
-			<section class="common-wrap top__wrap-contact" id="contact" data-nonce="dfb19d84d5">
+		<section class="common-wrap top__wrap-contact" id="contact" data-nonce="dfb19d84d5">
             <div class="top__future-slide">
 			    <p class="tit">
 					<span class="en">CONTACT</span>
