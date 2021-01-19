@@ -313,7 +313,7 @@
 							<h3 class="tit">TIMELINE<span></span></h3>
 							<div class="detail-wrap">
 								<div class="detail-wrap__inner">
-																																										<dl>
+																											<dl>
 											<dt>2008/3</dt>
 											<dd><p>中学校を卒業</p>
 </dd>
@@ -684,80 +684,80 @@
 							</li>
 											</ul>
 				</div>
-									<!-- item -->
-					<ul class="listarea">
+		<!-- item -->
+		<ul class="listarea">
 					<li class="listarea__item" data-id="368" id="work-368">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2020/05/83fa78ccfd5ba3c1f09fd3580d2a3638.png" alt="Quicint - EJS Boilerplate" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2019.10</p>
-		<h3 class="listarea__tit">Quicint - EJS Boilerplate</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="281" id="work-281">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/08/e337c855b87eef5b3a26fe71d7848bea.png" alt="Percolator（Web制作テンプレート）" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2019.07</p>
-		<h3 class="listarea__tit">Percolator（Web制作テンプレート）</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="69" id="work-69">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/aacc46d99950e5426290cc359bc24df8.jpg" alt="Slim Chatwork 公式サイト" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2019.05</p>
-		<h3 class="listarea__tit">Slim Chatwork 公式サイト</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="71" id="work-71">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/80b3c721a26567df3409d80afb13e07a.jpg" alt="Chrome拡張機能「Slim Chatwork」" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2019.04</p>
-		<h3 class="listarea__tit">Chrome拡張機能「Slim Chatwork」</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="202" id="work-202">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/bd46717121dac5f3ff09803e328832cd.jpg" alt="YouTube ScRfixeder" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2017.01</p>
-		<h3 class="listarea__tit">YouTube ScRfixeder</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="197" id="work-197">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/44678779b1f9f5abbc5b9c7e49e410dc.jpg" alt="見え〜るAlt 公式サイト" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2016.12</p>
-		<h3 class="listarea__tit">見え〜るAlt 公式サイト</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="194" id="work-194">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/455eac593c40658abdb73805395d926e.jpg" alt="見え〜るAlt" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2016.02</p>
-		<h3 class="listarea__tit">見え〜るAlt</h3>
-	</div>
-</li>
-<li class="listarea__item" data-id="187" id="work-187">
-	<div class="listarea__imagearea">
-		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/a1d85b4fed845645677094a4c7a45dd1.jpg" alt="degitekunote2" class="lazyload">
-	</div>
-	<div class="listarea__titarea">
-		<p class="listarea__date">2011.05</p>
-		<h3 class="listarea__tit">degitekunote2</h3>
-	</div>
-</li>
+				<div class="listarea__imagearea">
+					<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2020/05/83fa78ccfd5ba3c1f09fd3580d2a3638.png" alt="Quicint - EJS Boilerplate" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2019.10</p>
+					<h3 class="listarea__tit">Quicint - EJS Boilerplate</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="281" id="work-281">
+				<div class="listarea__imagearea">
+					<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/08/e337c855b87eef5b3a26fe71d7848bea.png" alt="Percolator（Web制作テンプレート）" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2019.07</p>
+					<h3 class="listarea__tit">Percolator（Web制作テンプレート）</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="69" id="work-69">
+				<div class="listarea__imagearea">
+					<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/aacc46d99950e5426290cc359bc24df8.jpg" alt="Slim Chatwork 公式サイト" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2019.05</p>
+					<h3 class="listarea__tit">Slim Chatwork 公式サイト</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="71" id="work-71">
+				<div class="listarea__imagearea">
+					<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/05/80b3c721a26567df3409d80afb13e07a.jpg" alt="Chrome拡張機能「Slim Chatwork」" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2019.04</p>
+					<h3 class="listarea__tit">Chrome拡張機能「Slim Chatwork」</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="202" id="work-202">
+				<div class="listarea__imagearea">
+					<img src="./public/img/morien_ogp.jpg" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/bd46717121dac5f3ff09803e328832cd.jpg" alt="YouTube ScRfixeder" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2017.01</p>
+					<h3 class="listarea__tit">YouTube ScRfixeder</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="197" id="work-197">
+				<div class="listarea__imagearea">
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/44678779b1f9f5abbc5b9c7e49e410dc.jpg" alt="見え〜るAlt 公式サイト" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2016.12</p>
+					<h3 class="listarea__tit">見え〜るAlt 公式サイト</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="194" id="work-194">
+				<div class="listarea__imagearea">
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/455eac593c40658abdb73805395d926e.jpg" alt="見え〜るAlt" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2016.02</p>
+					<h3 class="listarea__tit">見え〜るAlt</h3>
+				</div>
+			</li>
+			<li class="listarea__item" data-id="187" id="work-187">
+				<div class="listarea__imagearea">
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cofus.work/wordpress/wp-content/uploads/2019/06/a1d85b4fed845645677094a4c7a45dd1.jpg" alt="degitekunote2" class="lazyload">
+				</div>
+				<div class="listarea__titarea">
+					<p class="listarea__date">2011.05</p>
+					<h3 class="listarea__tit">degitekunote2</h3>
+				</div>
+			</li>
 					</ul>
 					<!-- item details -->
 					<div class="detail-list">
